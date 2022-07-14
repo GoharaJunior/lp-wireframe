@@ -5,7 +5,7 @@
 </h1>
 <p align="center"> Visualize o projeto:
     https://goharajunior.github.io/lp-wireframe/
-</p>
+</p>****
 
 <div align="center" >
     <img src=".github/wireframe.gif" alt="Demonstração do projeto" height="425">
@@ -24,7 +24,7 @@
 
 #### ⚙️ Requisitos
 
--   Git
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat">&nbsp;
 
 
 #### Iniciando o Desenvolvimento
