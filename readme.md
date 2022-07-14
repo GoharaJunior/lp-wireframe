@@ -5,7 +5,7 @@
 </h1>
 <p align="center"> Visualize o projeto:
     https://goharajunior.github.io/lp-wireframe/
-</p>****
+</p>
 
 <div align="center" >
     <img src=".github/wireframe.gif" alt="Demonstração do projeto" height="425">
